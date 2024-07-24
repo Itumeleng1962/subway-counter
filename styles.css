@@ -1,0 +1,30 @@
+body {
+    background-image: url("subway.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    color: azure;
+}
+
+div {
+    padding-top: 100px;
+    font-size: 100px;
+}
+
+button {
+    font-size: 50px;
+    padding: 10px;
+    background-color: blue;
+    color: azure;
+    border-radius: 10px;    
+    border: none;
+}
+
+#reset {
+    background-color: red
+}
